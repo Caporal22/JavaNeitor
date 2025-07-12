@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e609cdf-9848-454a-ac60-2605a8a719c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/Operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/AreaDeRectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Asignacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Logicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Operador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Precedencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Relacionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Operadores/Operadores/src/Unarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/Decision.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/Calificaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/ComparacionCadenas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/MayorNumeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/MayoriaEdad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/Not.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/Or.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/SentenciaDecisionIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Decision/Decision/src/UsuarioPassword.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zlL4ZXEWKbpOZ059qPgwKB988A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/danyp/Documents/Ingenieria/CursosUdemy/JavaInteli",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e609cdf-9848-454a-ac60-2605a8a719c6" name="Changes" comment="" />
+      <created>1752182367315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752182367315</updated>
+      <workItem from="1752182368366" duration="699000" />
+      <workItem from="1752300523839" duration="305000" />
+    </task>
+    <servers />
+  </component>
+</project>

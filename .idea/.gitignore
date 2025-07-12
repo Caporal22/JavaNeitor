@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Package Files
+*.jar
+*.war
+*.zip
+
+# Otros
+*.tmp
+.DS_Store
+Thumbs.db
+
+# VS Code (por si lo usas)
+.vscode/
+
+# Maven/Gradle
+target/
+build/
