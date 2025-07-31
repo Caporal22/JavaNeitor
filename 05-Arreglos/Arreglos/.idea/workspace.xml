@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de72f4f-9d56-4b98-9ce1-6ba18c5dfb35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arreglos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arreglos/src/Arreglos2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arreglos/src/Arreglos3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arreglos/src/Calificaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arreglos/src/Arreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arreglos/src/Arreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,30 +22,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2znFZu2tP7k99kxw51KhFx473Jn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Arreglo.executor": "Run",
-    "Application.Arreglos2.executor": "Run",
-    "Application.Arreglos3.executor": "Run",
-    "Application.Calificaciones.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/danyp/Documents/Ingenieria/CursosUdemy/JavaInteli/05-Arreglos/Arreglos",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Arreglo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arreglos2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arreglos3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calificaciones.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danyp/Documents/Ingenieria/CursosUdemy/JavaInteli/05-Arreglos/Arreglos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1de72f4f-9d56-4b98-9ce1-6ba18c5dfb35" name="Changes" comment="" />
@@ -65,6 +55,12 @@
       <updated>1752182367315</updated>
       <workItem from="1752182368366" duration="699000" />
       <workItem from="1752358989974" duration="7231000" />
+      <workItem from="1753563287928" duration="24000" />
+      <workItem from="1753563338784" duration="1513000" />
+      <workItem from="1753564897863" duration="20000" />
+      <workItem from="1753565010567" duration="227000" />
+      <workItem from="1753565252098" duration="18000" />
+      <workItem from="1753574304870" duration="13000" />
     </task>
     <servers />
   </component>
