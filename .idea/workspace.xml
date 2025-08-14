@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e609cdf-9848-454a-ac60-2605a8a719c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Arreglos/Arreglos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/05-Arreglos/Arreglos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/archivos/AgregarContenidoArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/calculadora/presentacion/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/calculadora/resta/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/calculadora/servicio/IServicioCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/calculadora/suma/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/maquina_snacks_archivos/dominio/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/maquina_snacks_archivos/presentacion/MaquinaSnacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/maquina_snacks_archivos/servicio/IServicioSnacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/maquina_snacks_archivos/servicio/ServicioSnacksArchivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/src/maquina_snacks_archivos/servicio/ServicioSnacksLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/mi_archivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/09-Avanzado/TemasAvanzados/mi_archivo.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +56,7 @@
       <workItem from="1752357058601" duration="326000" />
       <workItem from="1752358951429" duration="21000" />
       <workItem from="1753574539452" duration="1172000" />
+      <workItem from="1755098507419" duration="220000" />
     </task>
     <servers />
   </component>
