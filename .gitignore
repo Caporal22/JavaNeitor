@@ -1,0 +1,54 @@
+# -----------------------------
+#  Archivos de compilación
+# -----------------------------
+target/
+bin/
+*.class
+
+# -----------------------------
+#  Artefactos empaquetados
+# -----------------------------
+*.jar
+*.war
+*.ear
+
+# -----------------------------
+#  Configuración de IDEs
+# -----------------------------
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# -----------------------------
+#  Archivos sensibles
+# -----------------------------
+# Variables de entorno y credenciales
+env.properties
+/src/main/resources/env.properties
+*.config
+*.secret
+*.key
+*.properties
+
+# -----------------------------
+#  Logs y reportes
+# -----------------------------
+*.log
+*.out
+
+# -----------------------------
+#  Archivos temporales del SO
+# -----------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
