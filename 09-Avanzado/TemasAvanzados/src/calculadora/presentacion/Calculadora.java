@@ -23,6 +23,7 @@ public class Calculadora {
             exit = ejecutarOpciones(option, console, servicioCalculadora);
         }catch (Exception e){
             System.out.println("Ocurrio un error: " + e.getMessage());
+//            System.out.println(e.getStackTrace());
         }
         finally {
             System.out.println(); // Salto de línea
