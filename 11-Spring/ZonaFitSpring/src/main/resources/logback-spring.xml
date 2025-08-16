@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%msg</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Solo mostrar tus logs en INFO -->
+    <logger name="gm.zona_fit" level="info"/>
+
+    <!-- Silenciar ruido de Hibernate, Hikari y Spring -->
+    <logger name="org.hibernate" level="warn"/>
+    <logger name="com.zaxxer.hikari" level="warn"/>
+    <logger name="org.springframework" level="warn"/>
+
+    <!-- Root en WARN (así no muestra info de otras librerías) -->
+    <root level="warn">
+        <appender-ref ref="STDOUT"/>
+    </root>
+</configuration>
