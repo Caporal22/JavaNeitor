@@ -1,4 +1,5 @@
 package model;
 
-public class Persona {dddf
+public class Persona {
+
 }
